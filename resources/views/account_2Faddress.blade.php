@@ -11,44 +11,44 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>Account Login</title>
 <base href="https://opencart.templatetrip.com/OPC07/OPC190_nursery/OPC02/" />
-<script src="catalog/view/javascript/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
-<script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="../assets/catalog/view/javascript/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="../assets/catalog/view/javascript/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 
 <link href='https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Philosopher:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i' rel='stylesheet' type='text/css'>
-<link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="../assets/catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <!--<link href="catalog/view/theme//stylesheet/TemplateTrip/bootstrap.min.css" rel="stylesheet" media="screen" />-->
 
-<link href="catalog/view/javascript/jquery/owl-carousel/owl.carousel.css" rel="stylesheet" media="screen" />
-<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/bootstrap.min.css" rel="stylesheet" media="screen" />
-<link href="catalog/view/theme/OPC190_02/stylesheet/stylesheet.css" rel="stylesheet">
-<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/ttblogstyle.css" rel="stylesheet" type="text/css" />
-<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/ttcountdown.css" rel="stylesheet" type="text/css" />
-<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/category-feature.css" rel="stylesheet" type="text/css" />
-<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/animate.css" rel="stylesheet" type="text/css" />
-<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/newsletter.css" rel="stylesheet" type="text/css" />
-<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/ttinstafeed.css" rel="stylesheet" type="text/css" />
-<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/lightbox.css" rel="stylesheet" type="text/css" />
+<link href="../assets/catalog/view/javascript/jquery/owl-carousel/owl.carousel.css" rel="stylesheet" media="screen" />
+<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/bootstrap.min.css" rel="stylesheet" media="screen" />
+<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/stylesheet.css" rel="stylesheet">
+<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/ttblogstyle.css" rel="stylesheet" type="text/css" />
+<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/ttcountdown.css" rel="stylesheet" type="text/css" />
+<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/category-feature.css" rel="stylesheet" type="text/css" />
+<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/animate.css" rel="stylesheet" type="text/css" />
+<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/newsletter.css" rel="stylesheet" type="text/css" />
+<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/ttinstafeed.css" rel="stylesheet" type="text/css" />
+<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/lightbox.css" rel="stylesheet" type="text/css" />
 
 
-<script src="catalog/view/javascript/common.js" type="text/javascript"></script>
+<script src="../assets/catalog/view/javascript/common.js" type="text/javascript"></script>
 
 <!-- TemplateTrip custom Theme JS START -->
-<script src="catalog/view/javascript/TemplateTrip/addonScript.js" type="text/javascript"></script>
-<script src="catalog/view/javascript/TemplateTrip/ttcountdown.js" type="text/javascript"></script>
-<script src="catalog/view/javascript/TemplateTrip/inview.js" type="text/javascript"></script>
-<script src="catalog/view/javascript/TemplateTrip/parallex.js" type="text/javascript"></script>
-<script src="catalog/view/javascript/TemplateTrip/lightbox-2.6.min.js" type="text/javascript"></script>
-<script src="catalog/view/javascript/TemplateTrip/waypoints.min.js" type="text/javascript"></script>
-<script src="catalog/view/javascript/jquery/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
-<script src="catalog/view/javascript/TemplateTrip/tt_quickview.js" type="text/javascript"></script>
-<script src="catalog/view/javascript/TemplateTrip/bootstrap-notify.min.js" type="text/javascript"></script>
+<script src="../assets/catalog/view/javascript/TemplateTrip/addonScript.js" type="text/javascript"></script>
+<script src="../assets/catalog/view/javascript/TemplateTrip/ttcountdown.js" type="text/javascript"></script>
+<script src="../assets/catalog/view/javascript/TemplateTrip/inview.js" type="text/javascript"></script>
+<script src="../assets/catalog/view/javascript/TemplateTrip/parallex.js" type="text/javascript"></script>
+<script src="../assets/catalog/view/javascript/TemplateTrip/lightbox-2.6.min.js" type="text/javascript"></script>
+<script src="../assets/catalog/view/javascript/TemplateTrip/waypoints.min.js" type="text/javascript"></script>
+<script src="../assets/catalog/view/javascript/jquery/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+<script src="../assets/catalog/view/javascript/TemplateTrip/tt_quickview.js" type="text/javascript"></script>
+<script src="../assets/catalog/view/javascript/TemplateTrip/bootstrap-notify.min.js" type="text/javascript"></script>
 <!-- TemplateTrip custom Theme JS END -->
 
-<link href="https://opencart.templatetrip.com/OPC07/OPC190_nursery/OPC02/image/catalog/cart.png" rel="icon" />
+<link href="../assets/catalog/cart.png" rel="icon" />
 
-<script src="catalog/view/javascript/TemplateTrip/jquery.bpopup.min.js" type="text/javascript"></script>
-<script src="catalog/view/javascript/TemplateTrip/jquery.cookie.js" type="text/javascript"></script>
+<script src="../assets/catalog/view/javascript/TemplateTrip/jquery.bpopup.min.js" type="text/javascript"></script>
+<script src="../assets/catalog/view/javascript/TemplateTrip/jquery.cookie.js" type="text/javascript"></script>
 
 </head>
 
@@ -394,7 +394,7 @@
 	
   	<div class="header-left">
         <div id="logo">
-							<a href="https://opencart.templatetrip.com/OPC07/OPC190_nursery/OPC02/index.php?route=common/home"><img src="https://opencart.templatetrip.com/OPC07/OPC190_nursery/OPC02/image/catalog/logo.png" title="Your Store" alt="Your Store" class="img-responsive" /></a>
+							<a href="https://opencart.templatetrip.com/OPC07/OPC190_nursery/OPC02/index.php?route=common/home"><img src="../assets/image/catalog/logo.png" title="Your Store" alt="Your Store" class="img-responsive" /></a>
 			      </div>
     </div>
 		
@@ -420,14 +420,14 @@
     <div class="btn-group">
       <button class="btn btn-link">
              
-      <img src="catalog/language/en-gb/en-gb.png" alt="English" title="English">
+      <img src="../assets/catalog/language/en-gb/en-gb.png" alt="English" title="English">
                               <span class="hidden-xs hidden-sm hidden-md">Language</span></button>
       <ul>
                 <li>
-          <button class="btn btn-link btn-block language-select" type="button" name="en-gb"><img src="catalog/language/en-gb/en-gb.png" alt="English" title="English" /> English</button>
+          <button class="btn btn-link btn-block language-select" type="button" name="en-gb"><img src="../assets/catalog/language/en-gb/en-gb.png" alt="English" title="English" /> English</button>
         </li>
                 <li>
-          <button class="btn btn-link btn-block language-select" type="button" name="ar-lb"><img src="catalog/language/ar-lb/ar-lb.png" alt="Arabic" title="Arabic" /> Arabic</button>
+          <button class="btn btn-link btn-block language-select" type="button" name="ar-lb"><img src="../assets/catalog/language/ar-lb/ar-lb.png" alt="Arabic" title="Arabic" /> Arabic</button>
         </li>
               </ul>
     </div>
@@ -790,7 +790,7 @@
 		
 </header>
 <div class="header-content-title">
-	<div style="background-image: url('../../OPC190_nursery/OPC02/image/catalog/demo/banners/parallax.jpg'); background-position: 50% 78.1106%;" data-source-url="../../OPC190_nursery/OPC02/image/catalog/demo/banners/parallax.jpg" class="parallex">
+	<div style="../assets/image/catalog/demo/banners/parallax.jpg'); background-position: 50% 78.1106%;" data-source-url="../assets/image/catalog/demo/banners/parallax.jpg" class="parallex">
 	</div>
 </div>
 
@@ -957,11 +957,11 @@ function email_unsubscribe(){
 <div class="payment_logo_block">
 <div class="payment-title">Accepted Payment Methods</div>
 <ul class="payment-list list-unstyled">
-<li class="google"><a href="#"> <img src="image/catalog/demo/banners/google.png" alt="google"></a></li>
-<li class="maestro"><a href="#"> <img src="image/catalog/demo/banners/maestro.png" alt="maestro"></a></li>
-<li class="mastercard"><a href="#"> <img src="image/catalog/demo/banners/mastercard.png" alt="mastercard"></a></li>
-<li class="paypal"><a href="#"> <img src="image/catalog/demo/banners/paypal.png" alt="paypal"></a></li>
-<li class="visa"><a href="#"> <img src="image/catalog/demo/banners/visa.png" alt="visa"></a></li>
+<li class="google"><a href="#"> <img src="../assets/image/catalog/demo/banners/google.png" alt="google"></a></li>
+<li class="maestro"><a href="#"> <img src="../assets/image/catalog/demo/banners/maestro.png" alt="maestro"></a></li>
+<li class="mastercard"><a href="#"> <img src="../assets/image/catalog/demo/banners/mastercard.png" alt="mastercard"></a></li>
+<li class="paypal"><a href="#"> <img src="../assets/image/catalog/demo/banners/paypal.png" alt="paypal"></a></li>
+<li class="visa"><a href="#"> <img src="../assets/image/catalog/demo/banners/visa.png" alt="visa"></a></li>
 </ul>
 </div>
 	  </div>
@@ -1157,7 +1157,7 @@ function email_unsubscribe(){
 							else{
 								var html = '';
 								html += '<li style="text-align: center;height:10px;">';
-								html +=	'<img class="loading" src="image/catalog/demo/banners/loading.gif" />';
+								html +=	'<img class="loading" src="../assets/image/catalog/demo/banners/loading.gif" />';
 								html +=	'</li>';
 								$('.live-search ul').html(html);
 								$('.live-search').css('display','block');

@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class plantnest extends Controller
+class PlantNest extends Controller
 {
     public function account_2Faccount(){
         return view("account_2Faccount");
@@ -505,4 +505,3 @@ class plantnest extends Controller
         return view("product_2Fspecial");
     }
 }
-

@@ -1,29 +1,36 @@
 <!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!--[if IE 8 ]><html dir="ltr" lang="en" class="ie8"><![endif]-->
+<!--[if IE 9 ]><html dir="ltr" lang="en" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
 <html dir="ltr" lang="en">
+<!--<![endif]-->
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Your Store</title>
+<title>Plant Nest</title>
+<base href="../assets/" />
 <meta name="description" content="My Store" />
 <script src="catalog/view/javascript/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 
 <link href='https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Philosopher:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i' rel='stylesheet' type='text/css'>
-<link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-<link href="catalog/view/theme//stylesheet/TemplateTrip/bootstrap.min.css" rel="stylesheet" media="screen" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<link href="../assets/catalog/view/javascript/jquery/owl-carousel/owl.carousel.css" rel="stylesheet" media="screen" />
-<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/bootstrap.min.css" rel="stylesheet" media="screen" />
-<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/stylesheet.css" rel="stylesheet">
-<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/ttblogstyle.css" rel="stylesheet" type="text/css" />
-<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/ttcountdown.css" rel="stylesheet" type="text/css" />
-<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/category-feature.css" rel="stylesheet" type="text/css" />
-<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/animate.css" rel="stylesheet" type="text/css" />
-<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/newsletter.css" rel="stylesheet" type="text/css" />
-<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/ttinstafeed.css" rel="stylesheet" type="text/css" />
-<link href="../assets/catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/lightbox.css" rel="stylesheet" type="text/css" />
+<!--<link href="catalog/view/theme//stylesheet/TemplateTrip/bootstrap.min.css" rel="stylesheet" media="screen" />-->
+
+<link href="catalog/view/javascript/jquery/owl-carousel/owl.carousel.css" rel="stylesheet" media="screen" />
+<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/bootstrap.min.css" rel="stylesheet" media="screen" />
+<link href="catalog/view/theme/OPC190_02/stylesheet/stylesheet.css" rel="stylesheet">
+<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/ttblogstyle.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/ttcountdown.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/category-feature.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/animate.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/newsletter.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/ttinstafeed.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/theme/OPC190_02/stylesheet/TemplateTrip/lightbox.css" rel="stylesheet" type="text/css" />
 
 <link href="catalog/view/javascript/jquery/swiper/css/swiper.min.css" type="text/css" rel="stylesheet" media="screen" />
 <link href="catalog/view/javascript/jquery/swiper/css/opencart.css" type="text/css" rel="stylesheet" media="screen" />
@@ -871,7 +878,257 @@ function email_unsubscribepopup(){
 	  	  <div class="thumb-description">
       <div class="caption">
 		
-        
+        <!--<p class="description">
+	The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there's no limit to what you can achieve. 
+	
+	The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it's designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data. 
+	
+	Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple's ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications. 
+	
+	Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment. 
+	
+	The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection.
+	
+
+	Features:
+
+	Unrivaled display performance
+
+	
+		30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color.
+	
+		Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery.
+	
+		Wide-format design for simultaneous display of two full pages of text and graphics.
+	
+		Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks
+	
+		Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance.
+	
+		Lightning-fast pixel response for full-motion digital video playback.
+	
+		Support for 16.7 million saturated colors, for use in all graphics-intensive applications.
+
+
+	Simple setup and operation
+
+	
+		Single cable with elegant breakout for connection to DVI, USB and FireWire ports
+	
+		Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices.
+	
+		Two FireWire 400 ports to support iSight and other desktop peripherals
+
+
+	Sleek, elegant design
+
+	
+		Huge virtual workspace, very small footprint.
+	
+		Narrow Bezel design to minimize visual impact of using dual displays
+	
+		Unique hinge design for effortless adjustment
+	
+		Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately)
+
+
+	Technical specifications
+
+	Screen size (diagonal viewable image size)
+
+	
+		Apple Cinema HD Display: 30 inches (29.7-inch viewable)
+
+
+	Screen type
+
+	
+		Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD)
+
+
+	Resolutions
+
+	
+		2560 x 1600 pixels (optimum resolution)
+	
+		2048 x 1280
+	
+		1920 x 1200
+	
+		1280 x 800
+	
+		1024 x 640
+
+
+	Display colors (maximum)
+
+	
+		16.7 million
+
+
+	Viewing angle (typical)
+
+	
+		170° horizontal; 170° vertical
+
+
+	Brightness (typical)
+
+	
+		30-inch Cinema HD Display: 400 cd/m2
+
+
+	Contrast ratio (typical)
+
+	
+		700:1
+
+
+	Response time (typical)
+
+	
+		16 ms
+
+
+	Pixel pitch
+
+	
+		30-inch Cinema HD Display: 0.250 mm
+
+
+	Screen treatment
+
+	
+		Antiglare hardcoat
+
+
+	User controls (hardware and software)
+
+	
+		Display Power,
+	
+		System sleep, wake
+	
+		Brightness
+	
+		Monitor tilt
+
+
+	Connectors and cables
+	Cable
+
+	
+		DVI (Digital Visual Interface)
+	
+		FireWire 400
+	
+		USB 2.0
+	
+		DC power (24 V)
+
+
+	Connectors
+
+	
+		Two-port, self-powered USB 2.0 hub
+	
+		Two FireWire 400 ports
+	
+		Kensington security port
+
+
+	VESA mount adapter
+	Requires optional Cinema Display VESA Mount Adapter (M9649G/A)
+
+	
+		Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions
+
+
+	Electrical requirements
+
+	
+		Input voltage: 100-240 VAC 50-60Hz
+	
+		Maximum power when operating: 150W
+	
+		Energy saver mode: 3W or less
+
+
+	Environmental requirements
+
+	
+		Operating temperature: 50° to 95° F (10° to 35° C)
+	
+		Storage temperature: -40° to 116° F (-40° to 47° C)
+	
+		Operating humidity: 20% to 80% noncondensing
+	
+		Maximum operating altitude: 10,000 feet
+
+
+	Agency approvals
+
+	
+		FCC Part 15 Class B
+	
+		EN55022 Class B
+	
+		EN55024
+	
+		VCCI Class B
+	
+		AS/NZS 3548 Class B
+	
+		CNS 13438 Class B
+	
+		ICES-003 Class B
+	
+		ISO 13406 part 2
+	
+		MPR II
+	
+		IEC 60950
+	
+		UL 60950
+	
+		CSA 60950
+	
+		EN60950
+	
+		ENERGY STAR
+	
+		TCO '03
+
+
+	Size and weight
+	30-inch Apple Cinema HD Display
+
+	
+		Height: 21.3 inches (54.3 cm)
+	
+		Width: 27.2 inches (68.8 cm)
+	
+		Depth: 8.46 inches (21.5 cm)
+	
+		Weight: 27.5 pounds (12.5 kg)
+
+
+	System Requirements
+
+	
+		Mac Pro, all graphic options
+	
+		MacBook Pro
+	
+		Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better
+	
+		Power Mac G5 (PCI Express), all graphics options
+	
+		PowerBook G4 with dual-link DVI support
+	
+		Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup
+
+..</p>-->
 		
 					<div class="rating">
 		                                <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i></span>
@@ -927,6 +1184,55 @@ function email_unsubscribepopup(){
 	  	  <div class="thumb-description">
       <div class="caption">
 		
+        <!--<p class="description">
+	HTC Touch - in High Definition. Watch music videos and streaming content in awe-inspiring high definition clarity for a mobile experience you never thought possible. Seductively sleek, the HTC Touch HD provides the next generation of mobile functionality, all at a simple touch. Fully integrated with Windows Mobile Professional 6.1, ultrafast 3.5G, GPS, 5MP camera, plus lots more - all delivered on a breathtakingly crisp 3.8&quot; WVGA touchscreen - you can take control of your mobile world with the HTC Touch HD.
+
+	Features
+
+	
+		Processor Qualcomm&reg; MSM 7201A&trade; 528 MHz
+	
+		Windows Mobile&reg; 6.1 Professional Operating System
+	
+		Memory: 512 MB ROM, 288 MB RAM
+	
+		Dimensions: 115 mm x 62.8 mm x 12 mm / 146.4 grams
+	
+		3.8-inch TFT-LCD flat touch-sensitive screen with 480 x 800 WVGA resolution
+	
+		HSDPA/WCDMA: Europe/Asia: 900/2100 MHz; Up to 2 Mbps up-link and 7.2 Mbps down-link speeds
+	
+		Quad-band GSM/GPRS/EDGE: Europe/Asia: 850/900/1800/1900 MHz (Band frequency, HSUPA availability, and data speed are operator dependent.)
+	
+		Device Control via HTC TouchFLO&trade; 3D &amp; Touch-sensitive front panel buttons
+	
+		GPS and A-GPS ready
+	
+		Bluetooth&reg; 2.0 with Enhanced Data Rate and A2DP for wireless stereo headsets
+	
+		Wi-Fi&reg;: IEEE 802.11 b/g
+	
+		HTC ExtUSB&trade; (11-pin mini-USB 2.0)
+	
+		5 megapixel color camera with auto focus
+	
+		VGA CMOS color camera
+	
+		Built-in 3.5 mm audio jack, microphone, speaker, and FM radio
+	
+		Ring tone formats: AAC, AAC+, eAAC+, AMR-NB, AMR-WB, QCP, MP3, WMA, WAV
+	
+		40 polyphonic and standard MIDI format 0 and 1 (SMF)/SP MIDI
+	
+		Rechargeable Lithium-ion or Lithium-ion polymer 1350 mAh battery
+	
+		Expansion Slot: microSD&trade; memory card (SD 2.0 compatible)
+	
+		AC Adapter Voltage range/frequency: 100 ~ 240V AC, 50/60 Hz DC output: 5V and 1A
+	
+		Special Features: FM Radio, G-Sensor
+
+..</p>-->
 		
 					<div class="rating no-rating">
 		                                <span class="fa fa-stack"><i class="fa fa-star off fa-stack-2x"></i></span>
@@ -3776,7 +4082,7 @@ function email_unsubscribe(){
 	<div class="footer-bottom">
 		<div class="container">
 			<div class="footer-bottom-link col-sm-6 hb-animate-element left-to-right">
-				<p>Powered By <a href="http://www.opencart.com">OpenCart</a> Your Store &copy; 2023</p>
+				<p>Powered By Bit Rebels "Plant Nest" &copy; 2023</p>
 			</div>
 						<div class="footer-bottom-cms col-sm-6 hb-animate-element right-to-left">
 			<aside id="footer-bottom">
